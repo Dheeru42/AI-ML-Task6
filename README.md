@@ -1,4 +1,4 @@
-# 📌 Steps to Train KNN on Iris Dataset and Plot Decision Boundaries.
+📌 Steps to Train KNN on Iris Dataset and Plot Decision Boundaries.
 
 # import dataset
 
